@@ -6,4 +6,5 @@ Datasets and notebooks added:
  - Exploratory Data Analysis for Bike Sharing dataset
  - Exploratory Data Analysis using Seaborn for Restaurant Tips dataset
  - Linear Regression example with least squares
- - Zoo Animal Classification using Decision Tree method
+ - Zoo Animal Classification using the Decision Tree method
+ - Logistic regression for binary classification
