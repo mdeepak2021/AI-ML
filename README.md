@@ -8,3 +8,4 @@ Datasets and notebooks added:
  - Linear Regression example with least squares
  - Zoo Animal Classification using the Decision Tree method
  - Logistic Regression for binary classification
+ - Loan Approval Prediction Using Logistic Regression
