@@ -1,0 +1,201 @@
+id,DeptName,JobTitle,Sex,Salary
+1,Admininstration,Manager-Branch,M,95000.0
+2,Shipping,Clerk-Shipping,M,15000.084
+3,Shipping,Clerk-Shipping,F,21320.004
+4,Assembly,Assembler,F,24996.4
+5,France Headquarters,Director-Operations,F,0.0
+6,France Headquarters,Assistant-Senior,F,0.0
+7,Operations- Paris,Clerk,F,21087.358
+8,Administrative Department,Officer-Personnel,M,29550.048
+9,Hotline- Bordeaux,Chief-Group,M,69162.0
+10,"Headquarters - Reading, UK",Specialist,F,24000.0
+11,"Headquarters - Reading, UK",Specialist,F,12000.0
+12,"Headquarters - Reading, UK",Specialist,F,18000.0
+13,"Headquarters - Reading, UK",Specialist,F,34440.0
+14,Sales and Marketing - Wales,Director,F,66600.0
+15,Human Resources,Administrator-Human Resources,M,180000.0
+16,Personnel Department,Employee,M,18000.0
+17,Intermediate Instruction,Special Education Teacher,M,43556.4
+18,GP US Dept D,Staff,M,24000.0
+19,GP US Dept D,Chief Executive Officer,M,336000.0
+20,Vice Presidency,Director,M,223200.0
+21,Recruitment,Assistant,F,2397600.0
+22,Marketing,Manager-Office,M,32155.2
+23,Shipping,Director-Administration,M,300000.0
+24,Research and Development,Programmer,M,180000.0
+25,DB 3,DB 3,M,1200.0
+26,Human Resources,Accountant,F,240000.0
+27,Finance,Budget Analyst,F,36000.0
+28,Police Services,Law Enforcement Officer,M,50000.0
+29,Fire Protection,Fire Chief,F,120000.0
+30,Alumni Relations,Assistant Professor,F,92600.0
+31,Financial Aid Office,Financial Aid Clerk,M,7020.0
+32,Liberal Arts Department,Professor,M,158000.0
+33,PeopleSoft University,Teacher's Assistant,U,42000.0
+34,Electrical Engineering,Teaching Assistant,M,39000.0
+35,German Public Sector Dept Four,Education,F,0.0
+36,Human Resources,Data Entry Operator,F,31720.0
+37,Benefits,Specialist-Benefits,M,72000.0
+38,Benefits,Analyst-Human Resources,M,66000.0
+39,Benefits,Analyst-Business,M,61750.0
+40,Benefits,Analyst-HRMS,M,55120.0
+41,Information Systems,Financial Analyst,M,84960.0
+42,Information Systems,Coordinator-Environmental,F,96000.0
+43,Information Systems,Supervisor-Line,F,46280.0
+44,Information Systems,Specialist-Time & Labor,M,53227.2
+45,Information Systems,Specialist-Time & Labor,M,53227.2
+46,Information Systems,Data Entry Operator,F,66560.0
+47,Information Systems,Data Entry Operator,M,79040.0
+48,Finance & Administration,Manager-Accounting,F,77309.467
+49,Administration,Manager-Office,F,47860.8
+50,Business Services,Analyst-Business,M,60000.0
+51,Business Services,Analyst-Business,M,60000.0
+52,Western Sales Region,Consultant-Junior,M,36000.0
+53,Western Sales Region,Assistant I,F,35600.001
+54,Sales and Services,Sales Manager,M,95000.0
+55,Sales and Services,Sales Manager,F,87560.0
+56,Marketing,Manager-Office,M,27760.0
+57,Human Resources,Manager-Training & Development,F,51500.0
+58,Research and Development,Financial Analyst,F,65700.0
+59,Purchasing,Manager-Item Processing,M,65300.0
+60,Purchasing,Manager-Item Processing,M,101250.0
+61,Quality Assurance,Engineer-Quality Assurance,F,31200.0
+62,A Co 1/15 Infantry Bn,Infantryman,M,17128.8
+63,KUTLWC Department,Analyst-Budget,M,93600.0
+64,Office of Analysis - EComm,Analyst,M,72633.6
+65,Human Resources,Administrator-Human Resources,F,960000.0
+66,Accounting,Accountant,F,150000.0
+67,Oncology,Patient Care Coordinator,M,90000.0
+68,Business Services,Engineer-Quality Assurance,M,35360.004
+69,Business Services,Engineer-Quality Assurance,M,35360.004
+70,Assembly,Assembler,F,24996.4
+71,Assembly,Worker-Maintenance,M,26000.0
+72,Assembly,Worker-Maintenance,M,26000.0
+73,SwissDec Default Department,Tax Collector,F,36000.0
+74,Sales & Services,Recruiter,M,4800.0
+75,Headquarters - Spain,Specialist-HR,F,21700.0
+76,Headquarters,Specialist-HR,M,39956.0
+77,France Headquarters,Consultant - Senior,M,0.0
+78,France Headquarters,Assistant-Senior,F,0.0
+79,Operations- Paris,Clerk,F,21087.358
+80,Operations- Paris,Clerk,F,21087.358
+81,Operations- Paris,Clerk,F,21087.358
+82,"Headquarters - Reading, UK",Specialist,M,24000.0
+83,"Headquarters - Reading, UK",Specialist,F,1800.0
+84,"Headquarters - Reading, UK",Specialist,F,12000.0
+85,Marketing,Office Clerk,F,24000.0
+86,Human Resources,Manager-Human Resources,M,2400000.0
+87,Primary Maintanence,Cafeteria Worker,F,27500.0
+88,GP US Dept A,Staff,M,119999.88
+89,GP US Dept A,Staff,M,119999.88
+90,GP US Dept A,Staff,M,119999.88
+91,Vice Presidency,Director,M,60000.0
+92,Vice Presidency,Director,M,18000.0
+93,Vice Presidency,Director,F,297600.0
+94,Vice Presidency,Director,M,36000.0
+95,Accounts,Officer - Materials,F,96000.0
+96,Sales and Services,Administrator,F,250800.0
+97,Marketing,Assistant-Management Staff,F,50400.0
+98,Marketing,Administrator,F,66000.0
+99,Human Resources - Mexico,Analyst-Human Resources,M,93722.4
+100,Fire Protection,Firefighter,M,40000.0
+101,Admissions Office,Professor,M,3237.03
+102,Liberal Arts Department,Assistant Professor,M,115000.0
+103,PeopleSoft University,Teacher's Assistant,U,42000.0
+104,Human Resources,Agent-HR Help Desk L2,F,24003.107
+105,Human Resources,Specialist-Employment,M,720000.0
+106,Human Resources,Analyst-Budget,M,0.0
+107,Human Resources,Agent-HR Help Desk L1,M,41600.0
+108,Human Resources,Manager-HR Help Desk,M,72000.0
+109,Human Resources,Finance Specialist,F,69160.0
+110,Benefits,Analyst-Human Resources,F,49500.0
+111,Benefits,Analyst-Human Resources,M,49500.0
+112,Information Systems,Coordinator-Environmental,F,96000.0
+113,Information Systems,Supervisor-Line,F,46280.0
+114,Information Systems,Supervisor-Line,F,46280.0
+115,Information Systems,Analyst-Data,F,40000.0
+116,Information Systems,Specialist-HRIS,F,60000.0
+117,Finance and Administration,Clerk-Payroll Sr,F,26000.0
+118,Finance and Administration,Clerk-Payroll Sr,F,26000.0
+119,Corporate Finance,Clerk-Payroll Sr,M,13000.0
+120,Finance & Administration,Accountant,F,30923.784
+121,Business Services,Project Manager,F,38520.0
+122,Eastern Sales Region,Officer-Account Sr,F,40000.0
+123,Eastern Sales Region,Officer-Account Sr,F,64800.0
+124,Western Sales Region,Sr Administrative Assistant,F,27040.0
+125,Western Sales Region,Representative-Sales,M,60000.0
+126,Southern Sales Region,Accounting Clerk,M,45760.0
+127,Sales and Services,Product Consultant-Sales,F,64000.0
+128,Corporate IT,Assistant-Management Staff,M,51539.642
+129,Customer Service,Representative-Customer,M,618000.0
+130,Corporate Headquarters,Trainer-Corporate Sr,M,80000.0
+131,Corporate Headquarters,Clerk-I,F,28000.0
+132,Sales & Marketing,Director-Sales,F,128750.0
+133,Quality Assurance,Engineer-Quality Assurance,F,37440.0
+134,Quality Assurance Engineering,Engineer-Quality Assurance,M,46350.0
+135,Human Resources,Human Resource Director,M,187000.0
+136,Accounting,Clerk,F,30000.0
+137,Patient Services,Environmental Engineer,M,29120.0
+138,Patient Services,Environmental Engineer,F,34000.0
+139,Nursing,Nursing Assistant,F,48000.0
+140,Radiology,Radiologist,F,72000.0
+141,Purchasing,Receiving Manager,F,80000.0
+142,Business Services,Engineer-Quality Assurance,M,35360.004
+143,Business Services,Engineer-Quality Assurance,M,35360.004
+144,Shipping,Clerk-Shipping,F,20000.032
+145,Shipping,Clerk-Shipping,F,21320.004
+146,Assembly,Assembler,F,24996.4
+147,Sales & Services,Sales Manager,F,50556.602
+148,Sales & Services,Consultant,M,25276.2
+149,Information System/Technology,Manager-Office Services,F,0.0
+150,Sales & Services - France,Assistant,M,0.0
+151,"Headquarters - Reading, UK",Specialist,F,24000.0
+152,"Headquarters - Reading, UK",Specialist,F,24000.0
+153,Sales and Marketing - N. Ire,Representative-Sales,M,24000.0
+154,Human Resources,Manager-Human Resources,M,2400000.0
+155,Corporate HQ,Consultant - Senior,M,2400000.0
+156,Finance,Finance Director,U,134000.0
+157,Primary Instruction,Teacher's Aide,U,26000.0
+158,GP US Dept A,Staff,M,119999.88
+159,GP US Dept A,Staff,M,119999.88
+160,GP US Dept A,Staff,M,120000.0
+161,GP US Dept A,Staff,F,120000.0
+162,Vice Presidency,Director,F,360000.0
+163,Vice Presidency,Director,M,2280000.0
+164,Planning,Analyst-Budget,M,24000.0
+165,Production Scheduling,Planner,M,31199.998
+166,Human Resources - Mexico,Account Manager,M,51958.8
+167,Sales and Services,Consultant,M,180000.0
+168,Research and Development,Consultant,F,666000.0
+169,Research and Development,Programmer,M,96000.0
+170,Human Resources,Administrator-Human Resources,M,34800.0
+171,Human Resources - Netherlands,Administrator-Human Resources,F,23142.84
+172,Call Center - NLD,Specialist,M,26520.0
+173,Call Center - NLD,Specialist,M,30000.0
+174,Marketing,Manager-Marketing,F,110000.0
+175,Human Resources,Employee Relations Specialist,F,43000.0
+176,Office of the President,Guard-Security IV,F,50000.0
+177,Computer Scienc,Professor,M,40000.0
+178,Admissions Office,Professor,M,30000.0
+179,Admissions Office,Assistant Professor,F,36000.0
+180,German Public Sector Dept Six,Clerk,M,0.0
+181,Sales,Sales Manager,M,48600.0
+182,Human Resources,Consultant-Senior,M,48006.4
+183,Human Resources,Assistant II,M,60320.0
+184,Benefits,Analyst-HRMS,M,74880.0
+185,Benefits,Specialist-Benefits,M,72000.0
+186,Benefits,Analyst-Business,M,41080.0
+187,Information Systems,Senior Financial Analyst,F,90000.0
+188,Information Systems,Specialist-Time & Labor,M,53227.2
+189,Information Systems,Specialist-HRIS,F,60000.0
+190,Finance and Administration,Accounting Clerk,F,30680.0
+191,Finance and Administration,Accountant,M,43680.0
+192,Finance and Administration,Clerk-Payroll Sr,F,26000.0
+193,Finance and Administration,Clerk-Payroll Sr,F,26000.0
+194,Revenue Management,Financial Analyst,M,23920.0
+195,Business Services,Analyst-Business,M,60000.0
+196,Eastern Sales Region,Officer-Account Sr,F,64800.0
+197,Western Sales Region,Accounting Clerk,M,153400.0
+198,Western Sales Region,Accounting Clerk,M,176800.0
+199,Sales and Services,Representative-Sales,F,100000.0
+200,Marketing,Representative-Customer,F,78500.0
